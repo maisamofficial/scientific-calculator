@@ -30,7 +30,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/scientific-calculator.git
+git clone https://github.com/maisamofficial/scientific-calculator.git
 cd scientific-calculator
 ```
 
